@@ -1,2 +1,2 @@
-# Geeks_For_Geeks_Daily_Challanges
+# Geeks_For_Geeks_POTD
 Hey, It Contains Geeks for Geeks coding Daily Challenges ..
